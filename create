@@ -1,0 +1,2 @@
+#!/bin/bash
+wget -U 'Mozilla/5.0' -qO "$(date '+%Y%m%d%H%M%S').jpg" https://thispersondoesnotexist.com/
